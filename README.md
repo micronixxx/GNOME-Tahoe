@@ -1,6 +1,8 @@
 # GNOME-Tahoe
 A macOS Tahoe-inspired GNOME desktop customization setup.
 
+Most of the add-ons from https://github.com/iclou3/
+
 GNOME-Tahoe brings a Tahoe-inspired look to the GNOME desktop through customized extensions, blur effects, glass-like UI elements, widgets, icons, and wallpapers.
 
 The project includes an installation script and a visual configuration guide to help users reproduce the intended appearance.
