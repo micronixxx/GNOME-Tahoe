@@ -5,6 +5,17 @@ GNOME-Tahoe brings a Tahoe-inspired look to the GNOME desktop through customized
 
 The project includes an installation script and a visual configuration guide to help users reproduce the intended appearance.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/desktop.png" width="100%" alt="GNOME-Tahoe desktop">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/widgets.png" width="49%" alt="GNOME-Tahoe widgets">
+  <img src="docs/screenshots/quick-settings.png" width="49%" alt="GNOME-Tahoe Quick Settings">
+</p>
+
 ## Features
 
 - macOS Tahoe-inspired desktop appearance
