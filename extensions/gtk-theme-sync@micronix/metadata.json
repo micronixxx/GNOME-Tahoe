@@ -1,0 +1,7 @@
+{
+    "uuid": "gtk-theme-sync@micronix",
+    "name": "GTK Theme Sync",
+    "description": "Keeps ~/.config/gtk-4.0/gtk.css in sync with the system color scheme (MacTahoe Light/Dark), preserving Kiwi's managed imports. libadwaita apps pick the change up on restart.",
+    "shell-version": ["50"],
+    "version": 1
+}
